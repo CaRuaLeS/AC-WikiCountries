@@ -13,4 +13,11 @@
 - Tipado datos
 - Menú aplicaciones
 
-## Notes SC-9
+## SC - 10
+
+- Optimiación RXJS y peticioones HTTP
+- Debounce manual mediante RxJS
+- LocalStorage
+- Ideas de Store (cache)
+- Reutilización componentes
+- Operadores de RxJS aplicados
